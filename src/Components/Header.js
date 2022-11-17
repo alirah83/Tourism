@@ -14,7 +14,7 @@ const Header = (props) =>{
                     <span className="heading-primary--main">outdoors</span>
                     <span className="heading-primary--sub">is where life happens</span>
                 </h1>
-                <a href="#section-tours" className="btn1 btn1--white btn1--animated">discover our tour</a>
+                <a href="#sectionTours" className="btn1 btn1--white btn1--animated">discover our tour</a>
             </div>
         </header>
     )
